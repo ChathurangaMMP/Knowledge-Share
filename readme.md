@@ -77,8 +77,8 @@ python ragas_evaluation_main.py
 ## 🔗 Article Link
 
 Read the full breakdown of the methodology and results here:
-* [Medium Article Link](Add your link here)
-* [LinkedIn Post](Add your link here)
+* [Medium Article Link](https://medium.com/@mmpchathuranga.07/stop-guessing-a-data-driven-approach-to-rag-chunking-strategies-62c0d76ee8e5)
+* [LinkedIn Post](https://www.linkedin.com/posts/prasad-chathuranga_stop-guessing-a-data-driven-approach-to-activity-7429343595653959680-YSUS?utm_source=share&utm_medium=member_desktop&rcm=ACoAADM5xKIB5ZAc5ovzrN5FCp_ktIXlloSwuOE)
 
 ---
 *Author: Prasad Chathuranga*
