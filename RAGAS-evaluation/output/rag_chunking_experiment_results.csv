@@ -1,0 +1,10 @@
+Strategy,Question,Faithfulness,Precision,Recall
+Recursive,What is the critical threshold for coolant flow rate?,MetricResult(value=1.0),MetricResult(value=0.9999999999),MetricResult(value=1.0)
+Recursive,What happens specifically if the Core Temperature exceeds 30 mK?,MetricResult(value=1.0),MetricResult(value=0.9999999999),MetricResult(value=1.0)
+Recursive,Can I power down the Nexus-9 immediately after Stage 4 cooling begins?,MetricResult(value=1.0),MetricResult(value=0.49999999995),MetricResult(value=1.0)
+Token-Based,What is the critical threshold for coolant flow rate?,MetricResult(value=1.0),MetricResult(value=0.49999999995),MetricResult(value=1.0)
+Token-Based,What happens specifically if the Core Temperature exceeds 30 mK?,MetricResult(value=1.0),MetricResult(value=0.9999999999),MetricResult(value=1.0)
+Token-Based,Can I power down the Nexus-9 immediately after Stage 4 cooling begins?,MetricResult(value=0.75),MetricResult(value=0.0),MetricResult(value=1.0)
+Semantic,What is the critical threshold for coolant flow rate?,MetricResult(value=1.0),MetricResult(value=0.9999999999),MetricResult(value=1.0)
+Semantic,What happens specifically if the Core Temperature exceeds 30 mK?,MetricResult(value=1.0),MetricResult(value=0.9999999999),MetricResult(value=1.0)
+Semantic,Can I power down the Nexus-9 immediately after Stage 4 cooling begins?,MetricResult(value=1.0),MetricResult(value=0.9999999999),MetricResult(value=0.5)
